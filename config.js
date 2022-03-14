@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'Asutosh',
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
 
@@ -24,16 +24,6 @@ const CONFIG = {
 
   // Layout
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
-
-  // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
-  weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
-  weatherUnit: 'C', // 'F', 'C'
-  language: 'en', // More languages in https://openweathermap.org/current#multi
-
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
 
   // Autochange
   autoChangeTheme: true,
@@ -53,7 +43,7 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
+      name: 'GitHub',
       icon: 'github',
       link: 'https://github.com/',
     },
@@ -61,19 +51,19 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'ClickUp',
       icon: 'trello',
-      link: 'https://todoist.com',
+      link: 'https://app.clickup.com',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Figma',
+      icon: 'figma',
+      link: 'https://figma.com/',
     },
     {
       id: '5',
@@ -83,9 +73,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
@@ -222,7 +212,7 @@ const CONFIG = {
         },
         {
           name: 'Repos',
-          link: 'https://github.com/migueravila',
+          link: 'https://github.com/asutoshvariar',
         },
       ],
     },
