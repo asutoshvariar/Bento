@@ -71,47 +71,29 @@ const CONFIG = {
       icon: 'glasses',
       link: 'https://reddit.com',
     },
-    {
-      id: '6',
-      name: 'YouTube',
-      icon: 'youtube',
-      link: 'https://www.youtube.com/',
-    },
-    {
-      id: '7',
-      name: 'Spotify',
-      icon: 'headphones',
-      link: 'https://open.spotify.com',
-    },
-    {
-      id: '8',
-      name: 'Twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com/',
-    },
-    {
-      id: '9',
-      name: 'Discord',
-      icon: 'bot',
-      link: 'https://discord.com/app',
-    },
   ],
 
   secondButtonsContainer: [
     {
       id: '1',
+      name: 'YouTube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/',
+    },
+    {
+      id: '2',
       name: 'Spotify',
       icon: 'headphones',
       link: 'https://open.spotify.com',
     },
     {
-      id: '2',
+      id: '3',
       name: 'Teams',
       icon: 'graduation-cap',
       link: 'https://teams.microsoft.com/',
     },
     {
-      id: '3',
+      id: '4',
       name: 'Discord',
       icon: 'bot',
       link: 'https://discord.com/app',
