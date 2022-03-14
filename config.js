@@ -117,3 +117,4 @@ const CONFIG = {
       link: 'https://discord.com/app',
     },
   ],
+};
