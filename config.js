@@ -100,24 +100,18 @@ const CONFIG = {
   secondButtonsContainer: [
     {
       id: '1',
-      name: 'YouTube',
-      icon: 'youtube',
-      link: 'https://www.youtube.com/',
-    },
-    {
-      id: '2',
       name: 'Spotify',
       icon: 'headphones',
       link: 'https://open.spotify.com',
     },
     {
-      id: '3',
-      name: 'Twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com/',
+      id: '2',
+      name: 'Teams',
+      icon: 'graduation-cap',
+      link: 'https://teams.microsoft.com/',
     },
     {
-      id: '4',
+      id: '3',
       name: 'Discord',
       icon: 'bot',
       link: 'https://discord.com/app',
