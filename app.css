@@ -127,17 +127,8 @@ body {
 }
 
 .timeBlock {
-  grid-row: 1 / span 2;
+  grid-row: 1;
   grid-column: 1 / span 2;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.weatherBlock {
-  grid-column: 3 / span 2;
-  grid-row: 1 / span 2;
   display: flex;
   flex-direction: column;
   align-items: center;
