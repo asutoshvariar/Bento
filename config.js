@@ -71,6 +71,12 @@ const CONFIG = {
       icon: 'glasses',
       link: 'https://reddit.com',
     },
+    {
+      id: '6',
+      name: 'WhatsApp',
+      icon: 'message-circle',
+      link: 'https://web.whatsapp.com',
+    },
   ],
 
   secondButtonsContainer: [
